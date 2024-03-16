@@ -1,0 +1,34 @@
+header {
+       background-color: lightskyblue;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+}
+
+.ava { 
+    display: flex;  
+    justify-content: space-around;
+    height: 200px;
+    width: 150px;
+}
+
+nav a {
+    position: relative;
+    top: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+main div {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    background-color: lightskyblue;
+    height: 150px;
+}
